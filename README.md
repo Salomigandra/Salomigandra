@@ -5,7 +5,11 @@
 <div align="center">
     <img src="https://github.com/Salomigandra/Salomigandra/blob/main/Cover.png">
 </div>
-<p align="left"> <img src="https://github.com/Salomigandra/Salomigandra/blob/main/memoji.mov" alt="salomigandra" /> </p>
+<div style="border: 2px solid #000; padding: 10px; width: 100px;">
+    <p align="left">
+        <img src="https://github.com/Salomigandra/Salomigandra/blob/main/memoji.mov" alt="salomigandra" />
+    </p>
+</div>
 
 - 🔭 I’m currently working on [Personal Portfolio](https://salomigandra.com)
 
