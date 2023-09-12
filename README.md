@@ -1,5 +1,16 @@
 <h1 align="center">🎨 Hello, World! 🌍 Salomi Gandra</h1>
 <h3 align="center">A passionate web magician 🪄. I craft pixel-perfect designs and turn them into lively web experiences. Whether it's a minimalist landing page or a complex web app, I believe in the beauty of simplicity and the power of intuitive user interfaces.</h3>
+<table width="100%" height="100%" border="0" style="position:absolute; top:0; bottom:0; left:0; right:0;">
+    <tr>
+        <td align="center" valign="middle">
+            <video width="320" height="240" controls>
+                <source src="https://github.com/Salomigandra/Salomigandra/blob/main/Pink%20Black%20Boho%20Minimalist%20Luxury%20Wedding%20Planner%20LinkedIn%20Banner.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+            </video>
+        </td>
+    </tr>
+</table>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salomigandra&label=Profile%20views&color=0e75b6&style=flat" alt="salomigandra" /> </p>
 
