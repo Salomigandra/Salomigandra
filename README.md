@@ -5,13 +5,10 @@
 <div align="left">
     <img src="https://github.com/Salomigandra/Salomigandra/blob/main/Cover.png">
 </div>
-<div align="right">
-    <video width="300" controls>
-    <source src="https://github.com/Salomigandra/Salomigandra/blob/main/memoji.mov" type="video/mp4">
-    Your browser does not support the video tag.
-</video>
+<!-- <div align="right">
+    <img src="https://github.com/Salomigandra/Salomigandra/blob/main/memoji1.gif">
 </div>
-
+<div align="left">
 
 - 🔭 I’m currently working on [Personal Portfolio](https://salomigandra.com)
 
@@ -24,6 +21,27 @@
 - 📈 Proud Achievements: **Collaborated closely in a lean team of just two to successfully manage the critical Levin website transition phase using Drupal within a challenging three-month timeframe. This intensive project underscored my robust work ethic, technical prowess, and commitment to collaborative success.**
 
 - 🚀 Current Endeavors: **Exploring the realms of 3D design in web using Three.js. Diving deep into UX patterns and their psychological impacts.**
+</div> -->
+
+<table width="100%">
+    <tr>
+        <!-- This cell contains the text -->
+        <td valign="top">
+            <ul>
+                <li>🔭 I’m currently working on <a href="https://salomigandra.com">Personal Portfolio</a></li>
+                <li>🌱 Always Learning: <strong>In the tech world, yesterday's knowledge is obsolete today. I'm constantly updating my arsenal.</strong></li>
+                <li>👨‍💻 All of my projects are available at <a href="https://salomigandra.com">https://salomigandra.com</a></li>
+                <li>💬 Let's Collaborate: <strong>Whether you have a question, a project, or just want to chat about the latest design trends, feel free to reach out!</strong></li>
+                <li>📈 Proud Achievements: <strong>Collaborated closely in a lean team of just two to successfully manage the critical Levin website transition phase using Drupal within a challenging three-month timeframe. This intensive project underscored my robust work ethic, technical prowess, and commitment to collaborative success.</strong></li>
+                <li>🚀 Current Endeavors: <strong>Exploring the realms of 3D design in web using Three.js. Diving deep into UX patterns and their psychological impacts.</strong></li>
+            </ul>
+        </td>
+        <!-- This cell contains the GIF -->
+        <td valign="top" align="right">
+            <img src="https://github.com/Salomigandra/Salomigandra/blob/main/memoji1.gif" width="350">
+        </td>
+    </tr>
+</table>
 
 
 <h3 align="left">Connect with me:</h3>
