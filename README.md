@@ -12,8 +12,8 @@
 </table> -->
 
 <div align="center">
-    <video width="320" height="240" controls>
-        <source src="https://github.com/Salomigandra/Salomigandra/blob/main/Pink%20Black%20Boho%20Minimalist%20Luxury%20Wedding%20Planner%20LinkedIn%20Banner.mp4" type="video/mp4">
+    <video>
+        <source src="https://github.com/Salomigandra/Salomigandra/Pink%20Black%20Boho%20Minimalist%20Luxury%20Wedding%20Planner%20LinkedIn%20Banner.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
 </div>
