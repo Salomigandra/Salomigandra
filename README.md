@@ -5,7 +5,7 @@
 <div align="center">
     <img src="https://github.com/Salomigandra/Salomigandra/blob/main/Cover.png">
 </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=salomigandra&label=Profile%20views&color=0e75b6&style=flat" alt="salomigandra" /> </p>
+<p align="left"> <img src="https://github.com/Salomigandra/Salomigandra/blob/main/memoji.mov" alt="salomigandra" /> </p>
 
 - 🔭 I’m currently working on [Personal Portfolio](https://salomigandra.com)
 
