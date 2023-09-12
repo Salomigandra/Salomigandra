@@ -2,14 +2,16 @@
 <h3 align="center">A passionate web magician 🪄. I craft pixel-perfect designs and turn them into lively web experiences. Whether it's a minimalist landing page or a complex web app, I believe in the beauty of simplicity and the power of intuitive user interfaces.</h3>
 
 
-<div align="center">
+<div align="left">
     <img src="https://github.com/Salomigandra/Salomigandra/blob/main/Cover.png">
 </div>
-<div style="border: 2px solid #000; padding: 10px; width: 100px;">
-    <p align="left">
-        <img src="https://github.com/Salomigandra/Salomigandra/blob/main/memoji.mov" alt="salomigandra" />
-    </p>
+<div align="right">
+    <video width="300" controls>
+    <source src="https://github.com/Salomigandra/Salomigandra/blob/main/memoji.mov" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
 </div>
+
 
 - 🔭 I’m currently working on [Personal Portfolio](https://salomigandra.com)
 
@@ -22,6 +24,7 @@
 - 📈 Proud Achievements: **Collaborated closely in a lean team of just two to successfully manage the critical Levin website transition phase using Drupal within a challenging three-month timeframe. This intensive project underscored my robust work ethic, technical prowess, and commitment to collaborative success.**
 
 - 🚀 Current Endeavors: **Exploring the realms of 3D design in web using Three.js. Diving deep into UX patterns and their psychological impacts.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
