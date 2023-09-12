@@ -3,7 +3,7 @@
 <!-- <table width="100%" height="100%" border="0" style="position:absolute; top:0; bottom:0; left:0; right:0;">
     <tr>
         <td align="center" valign="middle">
-            <video width="320" height="240" controls>
+            <video>
                 <source src="https://github.com/Salomigandra/Salomigandra/blob/main/Pink%20Black%20Boho%20Minimalist%20Luxury%20Wedding%20Planner%20LinkedIn%20Banner.mp4" type="video/mp4">
                 Your browser does not support the video tag.
             </video>
