@@ -1,7 +1,6 @@
 <h1 align="center">🎨 Hello, World! 🌍 I'm 👋 Salomi Gandra</h1>
 <h3 align="center">A passionate web magician 🪄. I craft pixel-perfect designs and turn them into lively web experiences. Whether it's a minimalist landing page or a complex web app, I believe in the beauty of simplicity and the power of intuitive user interfaces.</h3>
 
-
 <div align="left">
     <img src="https://github.com/Salomigandra/Salomigandra/blob/main/Cover.png">
 </div>
