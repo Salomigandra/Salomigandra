@@ -32,7 +32,7 @@
                 <li>👨‍💻 All of my projects are available at <a href="https://salomigandra.com">https://salomigandra.com</a></li>
                 <li>💬 Let's Collaborate: <strong>Whether you have a question, a project, or just want to chat about the latest design trends, feel free to reach out!</strong></li>
                 <li>📈 Proud Achievements: <strong>Collaborated closely in a lean team of just two to successfully manage the critical Levin website transition phase using Drupal within a challenging three-month timeframe. This intensive project underscored my robust work ethic, technical prowess, and commitment to collaborative success.</strong></li>
-                <li>🚀 Current Endeavors: <strong>Exploring the realms of 3D design in web using Next.js. Diving deep into UX patterns and their psychological impacts.</strong></li>
+<!--                 <li>🚀 Current Endeavors: <strong>Exploring the realms of 3D design in web using Next.js. Diving deep into UX patterns and their psychological impacts.</strong></li> -->
             </ul>
         </td>
         <!-- This cell contains the GIF -->
