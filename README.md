@@ -2,7 +2,7 @@
 <h3 align="center">A developer-turned-systems thinker, passionate about solving real-world problems through tech, teamwork, and continuous learning.</h3>
 
 <div align="center">
-    <img src="https://github.com/Salomigandra/Salomigandra/blob/main/Cover.png" alt="Banner Image">
+    <img src="https://github.com/Salomigandra/Salomigandra/blob/main/Coverpage.png" alt="Banner Image">
 </div>
 
 ---
