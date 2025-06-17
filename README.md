@@ -1,5 +1,5 @@
 <h1 align="center">🌍 Hello, I'm Salomi Gandra</h1>
-<h3 align="center">A developer-turned-systems thinker, passionate about solving real-world problems through tech, teamwork, and continuous learning.</h3>
+<h3 align="center">A problem-solver at heart — passionate about bridging technology, people, and purpose-driven innovation</h3>
 
 <div align="center">
     <img src="https://github.com/Salomigandra/Salomigandra/blob/main/Coverpage.png" alt="Banner Image">
