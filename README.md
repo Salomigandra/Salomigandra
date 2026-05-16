@@ -71,48 +71,6 @@ A collection of data case studies focused on healthcare, inflation, operations, 
 
 ---
 
-#### 🏥 U.S. Hospital Price Audit  
-Analyzed hospital price transparency, private-insurer vs. Medicare price ratios, and healthcare cost variation using public healthcare datasets.
-
-`Skills:` Healthcare Analytics · Benchmarking · Compliance Review · Cost Analysis · Data Interpretation
-
----
-
-#### 🌍 Geopolitical Shocks & Inflation Analysis  
-Explored how global conflicts, oil prices, food costs, fertilizer supply, and currency pressure can affect household inflation and economic burden.
-
-`Skills:` Economic Analysis · Trend Analysis · Scenario Thinking · Public Data Research · Decision Storytelling
-
----
-
-#### ⚙️ Meeting Overculture & Productivity Gap  
-Investigated productivity loss, operational inefficiency, meeting culture, and time-cost impact through structured analysis.
-
-`Skills:` Operations Analysis · Cost Modeling · Productivity Analytics · Business Recommendations
-
----
-
-#### 🧬 BibleGo.org – Church Life Apps  
-React + Node.js application developed for a collaborative Christian study platform.
-
-`Tech:` React · TypeScript · Node.js · Docker · Agile · Jira
-
----
-
-#### 🖥️ Academic CMS Migration – Cleveland State University  
-Migrated and supported departmental websites in Drupal, improving content structure, accessibility, and maintainability.
-
-`Tech:` Drupal · HTML/CSS · Git · Jira · Accessibility Standards · Stakeholder Support
-
----
-
-#### 🐧 Remote Linux Shell  
-Simulated secure client-server Linux shell operations using C.
-
-`Tech:` C · Linux · Networking · File Systems
-
----
-
 ### 📈 Current Focus
 
 I am currently building stronger proof around:
